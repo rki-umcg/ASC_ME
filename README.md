@@ -4,12 +4,19 @@ ASC-ME (antibody-secreting cell maturity index) is a universal prediction model 
 
 ###
 Author:           Tobit D. Steinmetz
+
 Department:       Rheumatology and Clinical Immunology
+
 Affiliation:      University Medical Center Groningen
+
 Email:            d.t.steinmetz@umcg.nl
+
 Collaboration:    please ask permission from the author before using this script
+
 Last adjustment:  05-05-2026
+
 Remark:           part of this code was generated or troubleshooted using ChatGPT
+
 Reference:        iScience 2026
 ###
 
