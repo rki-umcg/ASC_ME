@@ -23,7 +23,7 @@ Reference:        iScience 2026
 for usage of the ASC-ME model, please visit https://steinmetz.shinyapps.io/asc_me/
 
 ###
-the code provided here can be used to reproduce the development, validation and application examples explained in Steinmetz et. al, iSience, 2026
+the code provided here can be used to reproduce the development, validation and application examples explained in Steinmetz et. al, iScience, 2026
 
 all R-scripts are adapted to function together with the accompanying files
 please download all files into the same folder (e.g. C:/ASC_ME) and unpack the zip-files
